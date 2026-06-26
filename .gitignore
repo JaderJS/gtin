@@ -224,3 +224,4 @@ log_consulta.txt
 *.png
 *.bat
 state.json
+/trash
